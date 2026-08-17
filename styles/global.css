@@ -30,12 +30,12 @@ html, button {
 }
 
 h1,h2{
-  font-famiy: 'Syne', sans-serif;
+  font-family: 'Syne', sans-serif;
 }
 
 h1 {
   font-size: var(--text-xl);
-  line-high: 1.25rem;
+  line-height: 1.25rem;
 }
 
 h2 {
